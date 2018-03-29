@@ -10,7 +10,7 @@ params:
   Name: "Conference name"
   Description: "Conference description"
   Date: "November 15"
-  Price: "Only $100" # If your event is free, just comment this line
+  Price: "Only $101" # If your event is free, just comment this line
   Venue: "Coco Bongo"
   Address: "Boulevard Kukulcan, 30"
   City:  "Cancún"
